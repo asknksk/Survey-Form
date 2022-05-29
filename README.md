@@ -4,7 +4,7 @@
 
 # Project Preview
 
-![]()
+![](https://github.com/asknksk/Survey-Form/blob/master/Animation.gif)
 
 ## Project Link
 
